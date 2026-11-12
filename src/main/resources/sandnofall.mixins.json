@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.hiu.sandnofall.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "FallingBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
